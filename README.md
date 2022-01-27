@@ -1,4 +1,6 @@
-### Hi there 👋
+### 你好！ 👋
+### Hi there！ 👋
+### 안녕! 👋
 
 <!--
 **StevenyzZhang/StevenyzZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
