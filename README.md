@@ -2,6 +2,8 @@
 ### Hi there！ 👋
 ### 안녕! 👋
 
+👯 I’m working with the [SALT-NLP](https://cs.stanford.edu/~diyiy/group.html) lab.
+
 <!--
 **StevenyzZhang/StevenyzZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
